@@ -2,6 +2,7 @@ PyCopy
 ===================
 
 Python script to copy music , movies , images , pdf etc . to their specified folder
+
 It reduces the effort of copying  one type of files at a time and paste in a folder
 (eg : copying music files from usb and paste in a music folder and again go to usb folder
 and copying all movies and then paste in a movies folder)
@@ -15,11 +16,11 @@ Grab the latest version of Python at https://www.python.org/downloads/.
 
 * for ubuntu 13.04 or above 
 ```
-chmod +x ~/.local/share/nautilus/scripts/MoveFiles.sh
+chmod +x ~/.local/share/nautilus/scripts/Movefiles.sh
 ```
 * for ubuntu 12.10 and below
 ```
-chmod +x ~/.gnome2/nautilus-scripts/MoveFiles.sh
+chmod +x ~/.gnome2/nautilus-scripts/Movefiles.sh
 ```
 * The path for file.py is hardcoded to Desktop ...U can change it accordingly.
 
