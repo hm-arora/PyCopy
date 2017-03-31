@@ -1,0 +1,3 @@
+music = '.mp3','.wav'
+movie = '.mp4','.mkv','.avi'
+image = '.jpg','.jpeg','.gif','.png'

@@ -1,0 +1,3 @@
+music = 'Enter full path of music folder (Eg -> /home/jackson/Desktop/music)'
+movie = 'Enter full path of movie folder (Eg -> /home/jackson/Desktop/movie)'
+image = 'Enter full path of image folder (Eg -> /home/jackson/Desktop/image)'
