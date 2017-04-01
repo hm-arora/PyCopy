@@ -31,3 +31,6 @@ chmod +x ~/.gnome2/nautilus-scripts/Movefiles.sh
 * Make sure in above files (*exten.txt* and *folder.txt*) have same name and same number of tags in left side
 
 * Now Right Click on the selected files you want to copying from that path to specified path . Right Click ->  Scripts -> Movefiles.sh
+
+### DEMO:
+![demo](https://cloud.githubusercontent.com/assets/23010645/24575623/fe25956a-16c8-11e7-9055-0304e2c01b00.gif)
