@@ -34,3 +34,10 @@ chmod +x ~/.gnome2/nautilus-scripts/Movefiles.sh
 
 ### DEMO:
 ![demo](https://cloud.githubusercontent.com/assets/23010645/24575623/fe25956a-16c8-11e7-9055-0304e2c01b00.gif)
+
+### Installation:
+   
+<a href="https://www.youtube.com/watch?v=MtrIx3z9ZFk
+" target="_blank"><img src="https://cloud.githubusercontent.com/assets/23010645/24576322/94b36f58-16d7-11e7-9ca3-0abf0313134c.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>  
+
